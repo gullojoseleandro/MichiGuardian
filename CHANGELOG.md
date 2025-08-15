@@ -12,6 +12,5 @@
 
 ## [Release 0.1.0] - 2025-08-15
 
-### Added
-
+- Inicialización del frontend con Next.js
 - Inicialización del backend con Express, Sequelize y MySQL
